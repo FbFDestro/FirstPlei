@@ -1,0 +1,81 @@
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Menu.resources
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Splash.resources
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\obj\Debug\FirstPlei.Properties.Resources.resources
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csproj.GenerateResource.Cache
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\bin\Debug\FirstPlei.exe
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\bin\Debug\FirstPlei.pdb
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\obj\Debug\FirstPlei.exe
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\obj\Debug\FirstPlei.pdb
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Jogo.resources
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Sudoku.resources
+F:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.exe
+F:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.pdb
+F:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csprojResolveAssemblyReference.cache
+F:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Jogo.resources
+F:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Menu.resources
+F:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Splash.resources
+F:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Sudoku.resources
+F:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.Properties.Resources.resources
+F:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csproj.GenerateResource.Cache
+F:\Fabio\FirstPlei\FirstPlei\bin\Debug\FirstPlei.exe
+F:\Fabio\FirstPlei\FirstPlei\bin\Debug\FirstPlei.pdb
+G:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.exe
+G:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.pdb
+G:\Fabio\FirstPlei\FirstPlei\bin\Debug\FirstPlei.exe
+G:\Fabio\FirstPlei\FirstPlei\bin\Debug\FirstPlei.pdb
+G:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csprojResolveAssemblyReference.cache
+G:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Menu.resources
+G:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Splash.resources
+G:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Sudoku.resources
+G:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.Properties.Resources.resources
+G:\Fabio\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\obj\Debug\FirstPlei.exe
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\obj\Debug\FirstPlei.pdb
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\bin\Debug\FirstPlei.exe
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\bin\Debug\FirstPlei.pdb
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Menu.resources
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Splash.resources
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Sudoku.resources
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Velha.resources
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\obj\Debug\FirstPlei.Properties.Resources.resources
+C:\Users\Fabio\Desktop\Fi\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csproj.GenerateResource.Cache
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.exe
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.pdb
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csprojResolveAssemblyReference.cache
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Menu.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Splash.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Sudoku.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Velha.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.Properties.Resources.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csproj.GenerateResource.Cache
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\bin\Debug\FirstPlei.exe
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\bin\Debug\FirstPlei.pdb
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmHard1.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmHard2.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmHard3.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmHard4.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmJogoMemo.resources
+E:\T.I FisrtPlei\RascunhoProg\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmCreditos.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.exe
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.pdb
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\bin\Debug\FirstPlei.exe
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\bin\Debug\FirstPlei.pdb
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csprojResolveAssemblyReference.cache
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmCreditos.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmHard1.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmHard2.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmHard3.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmHard4.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frmJogoMemo.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Menu.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Splash.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Sudoku.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.frm_Velha.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.Properties.Resources.resources
+F:\T.I FisrtPlei\FirstPlei\FirstPlei\obj\Debug\FirstPlei.csproj.GenerateResource.Cache
+E:\T.I FisrtPlei\IMPRIMIR\FirstPlei\FirstPlei\obj\Debug\FirstPlei.exe
+E:\T.I FisrtPlei\IMPRIMIR\FirstPlei\FirstPlei\obj\Debug\FirstPlei.pdb
+C:\Users\Fabio\Google Drive\IMPRIMIR\FirstPlei\FirstPlei\obj\Debug\FirstPlei.exe
+C:\Users\Fabio\Google Drive\IMPRIMIR\FirstPlei\FirstPlei\obj\Debug\FirstPlei.pdb
